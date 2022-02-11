@@ -20,7 +20,7 @@
 
 
 
-### Learning Now
+### Learning...
  ![Skills](https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=next.js&logoColor=white)
 
 [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofreitascarneiro&hide=prs,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/thiagofreitascarneiro/)
