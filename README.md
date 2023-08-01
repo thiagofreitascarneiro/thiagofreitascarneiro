@@ -5,8 +5,6 @@
 ### Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-freitas-carneiro-39359270/)
 
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofreitascarneiro&hide=prs,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/thiagofreitascarneiro/)
-</br>
 
 ### Tecnologias que possuo conhecimento:
  <div style="display:flex">
